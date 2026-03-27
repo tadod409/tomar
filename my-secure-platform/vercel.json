@@ -1,0 +1,13 @@
+{
+  "cleanUrls": true,
+  "routes": [
+    
+    {
+      "src": "/config.js",
+      "status": 404
+    },
+    {
+      "handle": "filesystem"
+    }
+  ]
+}
